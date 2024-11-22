@@ -1,0 +1,593 @@
+﻿species,drainage,stream,community,sample_id,date_sampled,date_processed,measured_by,sex_stage,sl,tl,weight,parasite_visible_externally,infected
+killifish,Guanapo,Lower Lalaja,KO,1,10/28/2023,11/02/2023,TP ,I,33.39,40.5,0.552,0,0
+killifish,Guanapo,Lower Lalaja,KO,2,10/28/2023,11/02/2023,TP ,M,33.1,40.95,0.602,0,0
+killifish,Guanapo,Lower Lalaja,KO,3,10/28/2023,11/02/2023,TP ,F,69.55,80.36,5.321,0,0
+killifish,Guanapo,Lower Lalaja,KO,4,10/28/2023,11/02/2023,TP ,M,46.39,55.57,1.585,0,0
+killifish,Guanapo,Lower Lalaja,KO,5,10/28/2023,11/02/2023,TP ,M,45.34,54.16,1.425,0,0
+killifish,Guanapo,Lower Lalaja,KO,6,10/28/2023,11/02/2023,TP ,M,40.66,49.29,1.109,0,0
+killifish,Guanapo,Lower Lalaja,KO,7,10/28/2023,11/02/2023,TP ,M,31.05,38.73,0.48,0,0
+killifish,Guanapo,Lower Lalaja,KO,8,10/28/2023,11/02/2023,TP ,M,36.41,44.29,0.764,0,0
+killifish,Guanapo,Lower Lalaja,KO,9,10/28/2023,11/02/2023,TP ,F,38.64,47.64,0.864,1,1
+killifish,Guanapo,Lower Lalaja,KO,10,10/28/2023,11/02/2023,TP ,M,35.68,43.8,0.716,1,1
+killifish,Guanapo,Lower Lalaja,KO,11,10/28/2023,11/02/2023,TP ,I,32.14,39.53,0.47,1,1
+killifish,Guanapo,Lower Lalaja,KO,12,10/28/2023,11/02/2023,TP ,M,32.53,40.75,0.561,0,0
+killifish,Guanapo,Lower Lalaja,KO,13,10/28/2023,11/02/2023,TP ,F,57.3,70.18,3.216,0,0
+killifish,Guanapo,Lower Lalaja,KO,14,10/28/2023,11/02/2023,TP ,M,33.66,38.99,0.566,0,0
+killifish,Guanapo,Lower Lalaja,KO,15,10/28/2023,11/02/2023,TP ,M,31.02,37.88,0.438,0,0
+killifish,Guanapo,Lower Lalaja,KO,16,10/28/2023,11/02/2023,RSM,F,40.79,46.2,0.888,0,1
+killifish,Guanapo,Lower Lalaja,KO,17,10/28/2023,11/02/2023,RSM,M,32.61,38.89,0.525,0,0
+killifish,Guanapo,Lower Lalaja,KO,18,10/28/2023,11/02/2023,RSM,M,50.46,59.31,2.109,0,0
+killifish,Guanapo,Lower Lalaja,KO,19,10/28/2023,11/02/2023,RSM,F,50.61,60.46,2.335,0,0
+killifish,Guanapo,Lower Lalaja,KO,20,10/28/2023,11/02/2023,RSM,M,36.53,41.26,0.602,0,0
+killifish,Guanapo,Lower Lalaja,KO,21,10/28/2023,11/02/2023,RSM,F,67.82,75.06,4.327,0,0
+killifish,Guanapo,Lower Lalaja,KO,22,10/28/2023,11/02/2023,RSM,F,46.61,52.24,1.317,0,1
+killifish,Guanapo,Lower Lalaja,KO,23,10/28/2023,11/02/2023,RSM,M,40.35,46.89,0.88,0,0
+killifish,Guanapo,Lower Lalaja,KO,24,10/28/2023,11/02/2023,RSM,M,39.99,47.6,0.909,0,1
+killifish,Guanapo,Lower Lalaja,KO,25,10/28/2023,11/02/2023,RSM,M,36.95,42.77,0.677,0,1
+killifish,Guanapo,Lower Lalaja,KO,26,10/28/2023,11/02/2023,RSM,I,26.4,31.39,0.242,0,1
+killifish,Guanapo,Lower Lalaja,KO,27,10/28/2023,11/02/2023,RSM,I,36.51,42.83,0.675,0,0
+killifish,Guanapo,Lower Lalaja,KO,28,10/28/2023,11/02/2023,RSM,M,33.38,38.74,0.525,0,0
+killifish,Guanapo,Lower Lalaja,KO,29,10/28/2023,11/02/2023,RSM,I,33.03,38.9,0.515,0,1
+killifish,Guanapo,Lower Lalaja,KO,30,10/28/2023,11/02/2023,RSM,M,31.93,37.83,0.462,0,0
+killifish,Guanapo,Lower Lalaja,KO,31,10/28/2023,11/02/2023,RSM,M,58.94,66.53,2.982,0,1
+killifish,Guanapo,Lower Lalaja,KO,32,10/28/2023,11/02/2023,RSM,M,47.4,54.22,1.578,0,0
+killifish,Guanapo,Lower Lalaja,KO,33,10/28/2023,11/02/2023,RSM,M,35.3,39.11,0.564,0,0
+killifish,Guanapo,Lower Lalaja,KO,34,10/28/2023,11/02/2023,RSM,I,28.32,34.92,0.292,1,1
+killifish,Guanapo,Lower Lalaja,KO,35,10/28/2023,11/02/2023,RSM,I,29.65,35.32,0.332,0,0
+killifish,Guanapo,Lower Lalaja,KO,36,10/28/2023,11/02/2023,TP ,I,25.8,32.65,0.277,0,0
+killifish,Guanapo,Lower Lalaja,KO,37,10/28/2023,11/02/2023,RSM,I,27.27,32.19,0.26,1,1
+killifish,Guanapo,Lower Lalaja,KO,38,10/28/2023,11/02/2023,TP ,M,51.65,62.67,2.292,0,0
+killifish,Guanapo,Lower Lalaja,KO,39,10/28/2023,11/02/2023,RSM,I,27.27,31.53,0.315,0,0
+killifish,Guanapo,Lower Lalaja,KO,40,10/28/2023,11/02/2023,RSM,M,33.57,38.62,0.551,0,0
+killifish,Guanapo,Lower Lalaja,KG,41,10/28/2023,11/02/2023,TP,F,49.59,61.96,2.065,0,0
+killifish,Guanapo,Lower Lalaja,KG,42,10/28/2023,11/02/2023,IMM,M,40.5,46.16,0.792,0,0
+killifish,Guanapo,Lower Lalaja,KG,43,10/28/2023,11/02/2023,RSM,I,38.64,47.58,0.832,1,1
+killifish,Guanapo,Lower Lalaja,KG,44,10/28/2023,11/02/2023,RSM,M,47.38,52.79,1.374,0,0
+killifish,Guanapo,Lower Lalaja,KG,45,10/28/2023,11/02/2023,IMM,I,36.05,,0.547,0,1
+killifish,Guanapo,Lower Lalaja,KG,46,10/28/2023,11/02/2023,TP,F,47.11,56.92,1.556,0,0
+killifish,Guanapo,Lower Lalaja,KG,47,10/28/2023,11/02/2023,RSM,M,40.19,47.54,0.983,1,1
+killifish,Guanapo,Lower Lalaja,KG,48,10/28/2023,11/02/2023,IMM,F,60.87,72.03,3.068,0,0
+killifish,Guanapo,Lower Lalaja,KG,49,10/28/2023,11/02/2023,TP,M,58.7,72.13,3.437,1,1
+killifish,Guanapo,Lower Lalaja,KG,50,10/28/2023,11/02/2023,RSM,M,39.08,46.57,0.82,0,0
+killifish,Guanapo,Lower Lalaja,KG,51,10/28/2023,11/02/2023,IMM,F,36.07,42.72,0.67,0,0
+killifish,Guanapo,Lower Lalaja,KG,52,10/28/2023,11/02/2023,RSM,F,41.94,48.54,0.961,0,1
+killifish,Guanapo,Lower Lalaja,KG,53,10/28/2023,11/02/2023,TP,I,25.59,30.79,0.214,0,0
+killifish,Guanapo,Lower Lalaja,KG,54,10/28/2023,11/02/2023,IMM,I,23.99,27.88,0.164,0,1
+killifish,Guanapo,Lower Lalaja,KG,55,10/28/2023,11/02/2023,RSM,F,43.74,51.2,1.377,0,1
+killifish,Guanapo,Lower Lalaja,KG,56,10/28/2023,11/02/2023,IMM,I,34.23,39.18,0.493,0,0
+killifish,Guanapo,Lower Lalaja,KG,57,10/28/2023,11/02/2023,TP,I,35.98,44.25,0.716,0,0
+killifish,Guanapo,Lower Lalaja,KG,58,10/28/2023,11/02/2023,IMM,I,32.38,38.44,0.442,0,1
+killifish,Guanapo,Lower Lalaja,KG,59,10/28/2023,11/02/2023,RSM,F,57.85,66.56,3.008,0,0
+killifish,Guanapo,Lower Lalaja,KG,60,10/28/2023,11/02/2023,RSM,F,53.54,58.69,1.912,0,1
+killifish,Guanapo,Lower Lalaja,KG,61,10/28/2023,11/02/2023,IMM,M,35.66,41.55,0.553,1,1
+killifish,Guanapo,Lower Lalaja,KG,62,10/28/2023,11/02/2023,RSM,F,39.72,46.5,0.841,0,0
+killifish,Guanapo,Lower Lalaja,KG,63,10/28/2023,11/02/2023,TP,M,38.79,47.74,0.858,0,1
+guppy,Guanapo,Lower Lalaja,KG,64,10/28/2023,11/02/2023,RSM,F,30.44,,0.504,0,1
+guppy,Guanapo,Lower Lalaja,KG,65,10/28/2023,11/02/2023,IMM,M,18.38,,0.125,0,0
+guppy,Guanapo,Lower Lalaja,KG,66,10/28/2023,11/02/2023,DLM,M,17.86,,0.099,0,1
+guppy,Guanapo,Lower Lalaja,KG,67,10/28/2023,11/02/2023,IMM,F,25.89,,0.358,0,0
+guppy,Guanapo,Lower Lalaja,KG,68,10/28/2023,11/02/2023,RSM,F,23.17,,0.237,0,0
+guppy,Guanapo,Lower Lalaja,KG,69,10/28/2023,11/02/2023,RSM,F,24.69,,0.346,0,1
+guppy,Guanapo,Lower Lalaja,KG,70,10/28/2023,11/02/2023,IMM,F,20.99,,0.179,0,0
+guppy,Guanapo,Lower Lalaja,KG,71,10/28/2023,11/02/2023,DLM,F,23.91,,0.286,0,0
+guppy,Guanapo,Lower Lalaja,KG,72,10/28/2023,11/02/2023,RSM,F,23.87,,0.279,0,0
+guppy,Guanapo,Lower Lalaja,KG,73,10/28/2023,11/02/2023,IMM,F,19.75,,0.15,0,1
+guppy,Guanapo,Lower Lalaja,KG,74,10/28/2023,11/02/2023,RSM,F,24.26,,0.267,0,0
+guppy,Guanapo,Lower Lalaja,KG,75,10/28/2023,11/02/2023,RSM,M,15.9,,0.065,0,0
+guppy,Guanapo,Lower Lalaja,KG,76,10/28/2023,11/02/2023,DLM,F,22.9,,0.31,0,0
+guppy,Guanapo,Lower Lalaja,KG,77,10/28/2023,11/02/2023,IMM,M,17.89,,0.097,0,0
+guppy,Guanapo,Lower Lalaja,KG,78,10/28/2023,11/02/2023,RSM,F,26.4,,0.298,0,0
+guppy,Guanapo,Lower Lalaja,KG,79,10/28/2023,11/02/2023,DLM,F,23.92,,0.275,0,0
+guppy,Guanapo,Lower Lalaja,KG,80,10/28/2023,11/02/2023,RSM,M,18.18,,0.142,0,0
+guppy,Guanapo,Lower Lalaja,KG,81,10/28/2023,11/02/2023,IMM,F,25.51,,0.395,0,0
+guppy,Guanapo,Lower Lalaja,KG,82,10/28/2023,11/02/2023,DLM,F,28.16,,0.484,0,0
+guppy,Guanapo,Lower Lalaja,KG,83,10/28/2023,11/02/2023,RSM,M,16.26,,0.108,0,0
+guppy,Guanapo,Lower Lalaja,KG,84,10/28/2023,11/02/2023,RSM,F,27.05,,0.305,0,0
+guppy,Guanapo,Lower Lalaja,KG,85,10/28/2023,11/02/2023,DLM,F,30.27,,0.534,0,1
+guppy,Guanapo,Lower Lalaja,KG,86,10/28/2023,11/02/2023,RSM,F,31.08,,0.414,0,1
+guppy,Guanapo,Lower Lalaja,KG,87,10/28/2023,11/02/2023,IMM,M,16.46,,0.087,0,1
+guppy,Guanapo,Lower Lalaja,KG,88,10/28/2023,11/02/2023,RSM,F,21.62,,0.162,0,0
+guppy,Guanapo,Lower Lalaja,KG,89,10/28/2023,11/02/2023,IMM,M,18.79,,0.118,0,1
+guppy,Guanapo,Lower Lalaja,KG,90,10/28/2023,11/02/2023,DLM,M,19.53,,0.132,1,1
+guppy,Guanapo,Lower Lalaja,KG,91,10/28/2023,11/02/2023,RSM,M,17.66,,0.086,0,0
+guppy,Guanapo,Lower Lalaja,KG,92,10/28/2023,11/02/2023,IMM,F,17.31,,0.086,0,0
+guppy,Guanapo,Lower Lalaja,KG,93,10/28/2023,11/02/2023,RSM,M,16.32,,0.055,0,0
+guppy,Guanapo,Lower Lalaja,KG,94,10/28/2023,11/02/2023,DLM,F,17.38,,0.109,0,1
+guppy,Guanapo,Lower Lalaja,KG,95,10/28/2023,11/02/2023,RSM,F,22.66,,0.206,0,0
+guppy,Guanapo,Lower Lalaja,KG,96,10/28/2023,11/02/2023,IMM,F,22.22,,0.219,0,1
+guppy,Guanapo,Lower Lalaja,KG,97,10/28/2023,11/02/2023,RSM,M,18.54,,0.087,0,0
+guppy,Guanapo,Lower Lalaja,KG,98,10/28/2023,11/02/2023,DLM,F,16.55,,0.079,1,1
+guppy,Guanapo,Lower Lalaja,KG,99,10/28/2023,11/02/2023,RSM,F,24.26,,0.242,0,0
+guppy,Guanapo,Lower Lalaja,KG,100,10/28/2023,11/02/2023,IMM,F,17.28,,0.123,0,1
+guppy,Guanapo,Lower Lalaja,KG,101,10/28/2023,11/02/2023,RSM,M,16.71,,0.105,0,0
+guppy,Guanapo,Lower Lalaja,KG,102,10/28/2023,11/02/2023,DLM,M,16.49,,0.106,0,1
+guppy,Guanapo,Lower Lalaja,KG,103,10/28/2023,11/02/2023,RSM,F,18.34,,0.081,0,0
+guppy,Guanapo,Lower Lalaja,KG,104,10/28/2023,11/02/2023,IMM,F,18.68,,0.137,0,0
+guppy,Guanapo,Lower Lalaja,KG,105,10/28/2023,11/02/2023,RSM,F,16.93,,0.064,0,0
+killifish,Guanapo,Upper Lalaja,KO,106,11/01/2023,11/03/2023,RSM,M,37.03,41.99,0.705,0,0
+killifish,Guanapo,Upper Lalaja,KO,107,11/01/2023,11/03/2023,TP,F,60.74,71.56,3.229,0,0
+killifish,Guanapo,Upper Lalaja,KO,108,11/01/2023,11/03/2023,RSM,M,49.09,55.04,1.774,1,1
+killifish,Guanapo,Upper Lalaja,KO,109,11/01/2023,11/03/2023,TP,M,55.44,65.32,2.728,0,0
+killifish,Guanapo,Upper Lalaja,KO,110,11/01/2023,11/03/2023,RSM,F,38.99,43.41,0.78,0,1
+killifish,Guanapo,Upper Lalaja,KO,111,11/01/2023,11/03/2023,TP,F,46.85,52.89,1.436,1,1
+killifish,Guanapo,Upper Lalaja,KO,112,11/01/2023,11/03/2023,RSM,M,45.07,52.38,1.381,0,1
+killifish,Guanapo,Upper Lalaja,KO,113,11/01/2023,11/03/2023,RSM,F,57.12,63.79,2.434,0,1
+killifish,Guanapo,Upper Lalaja,KO,114,11/01/2023,11/03/2023,TP,M,52.84,63.59,2.494,0,0
+killifish,Guanapo,Upper Lalaja,KO,115,11/01/2023,11/03/2023,TP,M,69.01,83.26,5.847,0,0
+killifish,Guanapo,Upper Lalaja,KO,116,11/01/2023,11/03/2023,RSM,F,49.04,57.54,1.789,0,1
+killifish,Guanapo,Upper Lalaja,KO,117,11/01/2023,11/03/2023,TP,F,34.39,41.49,0.7,0,0
+killifish,Guanapo,Upper Lalaja,KO,118,11/01/2023,11/03/2023,RSM,F,50.47,57.57,1.754,0,0
+killifish,Guanapo,Upper Lalaja,KO,119,11/01/2023,11/03/2023,TP,F,41.52,49.86,1.158,0,1
+killifish,Guanapo,Upper Lalaja,KO,120,11/01/2023,11/03/2023,RSM,F,37.87,42.43,0.694,0,1
+killifish,Guanapo,Upper Lalaja,KO,121,11/01/2023,11/03/2023,RSM,I,27.01,31,0.28,0,0
+killifish,Guanapo,Upper Lalaja,KO,122,11/01/2023,11/03/2023,TP,I,25.08,30.76,0.22,1,1
+killifish,Guanapo,Upper Lalaja,KO,123,11/01/2023,11/03/2023,RSM,I,20.46,22.94,0.093,0,1
+killifish,Guanapo,Upper Lalaja,KO,124,11/01/2023,11/03/2023,TP,I,23.77,29.53,0.191,0,1
+killifish,Guanapo,Upper Lalaja,KO,125,11/01/2023,11/03/2023,RSM,I,25.42,29.75,0.263,1,1
+killifish,Guanapo,Upper Lalaja,KO,126,11/01/2023,11/03/2023,TP,I,20.85,26.09,0.157,1,1
+killifish,Guanapo,Upper Lalaja,KO,127,11/01/2023,11/03/2023,RSM,I,27.01,31.21,0.259,1,1
+killifish,Guanapo,Upper Lalaja,KO,128,11/01/2023,11/03/2023,TP,I,17.57,21.83,0.082,0,0
+killifish,Guanapo,Upper Lalaja,KO,129,11/01/2023,11/03/2023,RSM,I,17.72,20.58,0.074,0,0
+killifish,Guanapo,Upper Lalaja,KO,130,11/01/2023,11/03/2023,RSM,M,35.35,40.17,0.581,0,1
+killifish,Guanapo,Upper Lalaja,KO,131,11/01/2023,11/03/2023,TP,M,32.22,39.9,0.533,0,0
+killifish,Guanapo,Upper Lalaja,KO,132,11/01/2023,11/03/2023,TP,F,36.11,44.62,0.588,0,1
+killifish,Guanapo,Upper Lalaja,KO,133,11/01/2023,11/03/2023,RSM,F,40.99,49.53,0.915,0,1
+killifish,Guanapo,Upper Lalaja,KO,134,11/01/2023,11/03/2023,TP,I,19.21,24,0.123,0,1
+killifish,Guanapo,Upper Lalaja,KO,135,11/01/2023,11/03/2023,RSM,I,21.33,26.06,0.149,0,1
+killifish,Guanapo,Upper Lalaja,KO,136,11/01/2023,11/03/2023,RSM,I,14.1,17.51,0.048,0,1
+killifish,Guanapo,Upper Lalaja,KO,137,11/01/2023,11/03/2023,TP,M,39.74,48.64,1.025,0,0
+killifish,Guanapo,Upper Lalaja,KO,138,11/01/2023,11/03/2023,RSM,F,37.46,41.93,0.702,1,1
+killifish,Guanapo,Upper Lalaja,KO,139,11/01/2023,11/03/2023,TP,I,23.82,29.65,0.218,0,0
+killifish,Guanapo,Upper Lalaja,KO,140,11/01/2023,11/03/2023,RSM,F,32.14,37.64,0.448,0,1
+killifish,Guanapo,Upper Lalaja,KO,141,11/01/2023,11/03/2023,TP,F,38.21,45.53,0.874,0,1
+killifish,Guanapo,Upper Lalaja,KG,142,11/01/2023,11/03/2023,MLH,F,60.21,68.55,3.021,0,0
+killifish,Guanapo,Upper Lalaja,KG,143,11/01/2023,11/03/2023,RSM,F,68.9,79.06,4.914,0,1
+killifish,Guanapo,Upper Lalaja,KG,144,11/01/2023,11/03/2023,RSM,M,59.15,65.72,2.62,0,0
+killifish,Guanapo,Upper Lalaja,KG,145,11/01/2023,11/03/2023,RSM,F,64.33,69.51,3.107,0,1
+killifish,Guanapo,Upper Lalaja,KG,146,11/01/2023,11/03/2023,MLH,M,70.52,77.99,4.984,1,1
+killifish,Guanapo,Upper Lalaja,KG,147,11/01/2023,11/03/2023,RSM,M,61.32,69.24,3.491,0,0
+killifish,Guanapo,Upper Lalaja,KG,148,11/01/2023,11/03/2023,RSM,M,61.18,68.95,3.223,0,1
+killifish,Guanapo,Upper Lalaja,KG,149,11/01/2023,11/03/2023,RSM,M,69.87,76.04,4.658,0,1
+killifish,Guanapo,Upper Lalaja,KG,150,11/01/2023,11/03/2023,MLH,M,52.96,59.3,2.244,0,0
+killifish,Guanapo,Upper Lalaja,KG,151,11/01/2023,11/03/2023,RSM,M,33.4,37.89,0.438,0,1
+killifish,Guanapo,Upper Lalaja,KG,152,11/01/2023,11/03/2023,MLH,M,56.4,66.38,2.673,0,1
+killifish,Guanapo,Upper Lalaja,KG,153,11/01/2023,11/03/2023,RSM,F,34.19,38.12,0.579,1,1
+killifish,Guanapo,Upper Lalaja,KG,154,11/01/2023,11/03/2023,RSM,M,43.96,51.38,1.122,0,1
+killifish,Guanapo,Upper Lalaja,KG,155,11/01/2023,11/03/2023,MLH,F,44.34,49.8,1.195,0,0
+killifish,Guanapo,Upper Lalaja,KG,156,11/01/2023,11/03/2023,RSM,F,51.52,57.44,1.942,0,0
+killifish,Guanapo,Upper Lalaja,KG,157,11/01/2023,11/03/2023,RSM,F,57.78,64.14,2.458,0,1
+killifish,Guanapo,Upper Lalaja,KG,158,11/01/2023,11/03/2023,RSM,M,37.56,41.82,0.798,0,1
+killifish,Guanapo,Upper Lalaja,KG,159,11/01/2023,11/03/2023,MLH,F,36.52,41.77,0.644,0,1
+killifish,Guanapo,Upper Lalaja,KG,160,11/01/2023,11/03/2023,RSM,F,38.2,43.65,0.737,0,1
+killifish,Guanapo,Upper Lalaja,KG,161,11/01/2023,11/03/2023,RSM,F,40.72,46.76,1.058,0,0
+killifish,Guanapo,Upper Lalaja,KG,162,11/01/2023,11/03/2023,MLH,F,35.3,39.34,0.538,0,1
+killifish,Guanapo,Upper Lalaja,KG,163,11/01/2023,11/03/2023,RSM,F,36.68,40.76,0.708,0,1
+killifish,Guanapo,Upper Lalaja,KG,164,11/01/2023,11/03/2023,RSM,F,44.37,51.74,1.237,0,0
+killifish,Guanapo,Upper Lalaja,KG,165,11/01/2023,11/03/2023,MLH,M,40.14,45.12,0.875,0,1
+killifish,Guanapo,Upper Lalaja,KG,166,11/01/2023,11/03/2023,RSM,F,44.3,48.92,1.232,0,0
+killifish,Guanapo,Upper Lalaja,KG,167,11/01/2023,11/03/2023,RSM,F,39.95,44.56,0.88,0,1
+killifish,Guanapo,Upper Lalaja,KG,168,11/01/2023,11/03/2023,MLH,M,38.11,45.31,0.875,1,1
+killifish,Guanapo,Upper Lalaja,KG,169,11/01/2023,11/03/2023,RSM,I,23.67,27.76,0.195,0,0
+killifish,Guanapo,Upper Lalaja,KG,170,11/01/2023,11/03/2023,RSM,M,46.65,51.99,1.491,0,1
+killifish,Guanapo,Upper Lalaja,KG,171,11/01/2023,11/03/2023,RSM,F,37.91,43.19,0.787,0,0
+killifish,Guanapo,Upper Lalaja,KG,172,11/01/2023,11/03/2023,MLH,F,42.78,48.74,1.133,0,1
+killifish,Guanapo,Upper Lalaja,KG,173,11/01/2023,11/03/2023,RSM,I,26.98,31.35,0.299,0,1
+killifish,Guanapo,Upper Lalaja,KG,174,11/01/2023,11/03/2023,RSM,M,45.37,51.75,1.358,0,0
+killifish,Guanapo,Upper Lalaja,KG,175,11/01/2023,11/03/2023,MLH,M,52.02,58.71,1.961,0,0
+killifish,Guanapo,Upper Lalaja,KG,176,11/01/2023,11/03/2023,RSM,I,25.83,30.29,0.251,0,0
+killifish,Guanapo,Upper Lalaja,KG,177,11/01/2023,11/03/2023,RSM,F,36.75,43.93,0.752,0,0
+killifish,Guanapo,Upper Lalaja,KG,178,11/01/2023,11/03/2023,RSM,I,31.59,34.85,0.386,1,1
+killifish,Guanapo,Upper Lalaja,KG,179,11/01/2023,11/03/2023,MLH,F,31.84,36.94,0.431,1,1
+guppy,Guanapo,Upper Lalaja,KG,180,11/01/2023,11/04/2023,RSM,F,24.74,,0.314,0,0
+guppy,Guanapo,Upper Lalaja,KG,181,11/01/2023,11/04/2023,IMM,F,27.34,,0.444,0,0
+guppy,Guanapo,Upper Lalaja,KG,182,11/01/2023,11/04/2023,RSM,F,27.06,,0.342,0,0
+guppy,Guanapo,Upper Lalaja,KG,183,11/01/2023,11/04/2023,IMM,F,20.68,,0.173,0,0
+guppy,Guanapo,Upper Lalaja,KG,184,11/01/2023,11/04/2023,RSM,F,19.97,,0.131,0,0
+guppy,Guanapo,Upper Lalaja,KG,185,11/01/2023,11/04/2023,IMM,M,17.59,,0.118,0,1
+guppy,Guanapo,Upper Lalaja,KG,186,11/01/2023,11/04/2023,RSM,M,16.29,,0.099,0,0
+guppy,Guanapo,Upper Lalaja,KG,187,11/01/2023,11/04/2023,RSM,F,15.29,,0.059,0,1
+guppy,Guanapo,Upper Lalaja,KG,188,11/01/2023,11/04/2023,IMM,F,31.46,,0.7,0,0
+guppy,Guanapo,Upper Lalaja,KG,189,11/01/2023,11/04/2023,RSM,M,15.36,,0.063,0,0
+guppy,Guanapo,Upper Lalaja,KG,190,11/01/2023,11/04/2023,RSM,F,29.94,,0.46,0,0
+guppy,Guanapo,Upper Lalaja,KG,191,11/01/2023,11/04/2023,IMM,F,25.65,,0.411,0,1
+guppy,Guanapo,Upper Lalaja,KG,192,11/01/2023,11/04/2023,RSM,M,19.54,,0.141,0,0
+guppy,Guanapo,Upper Lalaja,KG,193,11/01/2023,11/04/2023,RSM,M,13.25,,0.046,0,1
+guppy,Guanapo,Upper Lalaja,KG,194,11/01/2023,11/04/2023,IMM,F,24.6,,0.366,0,1
+guppy,Guanapo,Upper Lalaja,KG,195,11/01/2023,11/04/2023,RSM,M,14.37,,0.04,0,0
+guppy,Guanapo,Upper Lalaja,KG,196,11/01/2023,11/04/2023,RSM,F,20.81,,0.162,0,0
+guppy,Guanapo,Upper Lalaja,KG,197,11/01/2023,11/04/2023,RSM,M,19.06,,0.174,0,0
+guppy,Guanapo,Upper Lalaja,KG,198,11/01/2023,11/04/2023,IMM,F,19.43,,0.152,0,0
+guppy,Guanapo,Upper Lalaja,KG,199,11/01/2023,11/04/2023,RSM,I,13.08,,0.043,0,0
+guppy,Guanapo,Upper Lalaja,KG,200,11/01/2023,11/04/2023,IMM,M,15.94,,0.09,0,0
+guppy,Guanapo,Upper Lalaja,KG,201,11/01/2023,11/04/2023,RSM,F,14.23,,0.073,0,0
+guppy,Guanapo,Upper Lalaja,KG,202,11/01/2023,11/04/2023,RSM,F,15.98,,0.07,0,0
+guppy,Guanapo,Upper Lalaja,KG,203,11/01/2023,11/04/2023,IMM,F,14.9,,0.064,0,0
+guppy,Guanapo,Upper Lalaja,KG,204,11/01/2023,11/04/2023,RSM,I,12.64,,0.03,0,0
+guppy,Guanapo,Upper Lalaja,KG,205,11/01/2023,11/04/2023,RSM,I,13.57,,0.038,0,0
+guppy,Guanapo,Upper Lalaja,KG,206,11/01/2023,11/04/2023,IMM,M,16.75,,0.103,0,0
+guppy,Guanapo,Upper Lalaja,KG,207,11/01/2023,11/04/2023,RSM,I,13.22,,0.031,0,0
+guppy,Guanapo,Upper Lalaja,KG,208,11/01/2023,11/04/2023,IMM,F,20.46,,0.189,0,0
+guppy,Guanapo,Upper Lalaja,KG,209,11/01/2023,11/04/2023,RSM,F,17.18,,0.093,0,1
+guppy,Guanapo,Upper Lalaja,KG,210,11/01/2023,11/04/2023,RSM,M,17.83,,0.097,0,0
+guppy,Guanapo,Upper Lalaja,KG,211,11/01/2023,11/04/2023,IMM,M,18.32,,0.128,0,0
+guppy,Guanapo,Upper Lalaja,KG,212,11/01/2023,11/04/2023,RSM,I,11.87,,0.031,0,0
+guppy,Guanapo,Upper Lalaja,KG,213,11/01/2023,11/04/2023,IMM,M,16.18,,0.086,0,0
+guppy,Guanapo,Upper Lalaja,KG,214,11/01/2023,11/04/2023,RSM,M,17.24,,0.093,0,0
+guppy,Guanapo,Upper Lalaja,KG,215,11/01/2023,11/04/2023,RSM,M,19.64,,0.101,0,0
+guppy,Guanapo,Upper Lalaja,KG,216,11/01/2023,11/04/2023,IMM,F,15.01,,0.066,0,0
+guppy,Guanapo,Upper Lalaja,KG,217,11/01/2023,11/04/2023,RSM,F,22.69,,0.205,0,0
+guppy,Guanapo,Upper Lalaja,KG,218,11/01/2023,11/04/2023,IMM,M,18.73,,0.124,0,1
+guppy,Guanapo,Upper Lalaja,KG,219,11/01/2023,11/04/2023,RSM,M,15.8,,0.084,0,0
+guppy,Guanapo,Upper Lalaja,KG,220,11/01/2023,11/04/2023,RSM,F,17.1,,0.083,0,0
+guppy,Guanapo,Upper Lalaja,KG,221,11/01/2023,11/04/2023,IMM,F,18.73,,0.071,0,1
+guppy,Guanapo,Upper Lalaja,KG,222,11/01/2023,11/04/2023,RSM,I,11.47,,0.027,0,1
+guppy,Guanapo,Upper Lalaja,KG,223,11/01/2023,11/04/2023,RSM,F,17.57,,0.074,0,0
+guppy,Guanapo,Upper Lalaja,KG,224,11/01/2023,11/04/2023,IMM,F,28.83,,0.537,0,0
+killifish,Aripo,Naranjo,KO,299,11/07/2023,11/09/2023,DLM,M,41.01,49.51,1.085,0,0
+killifish,Aripo,Naranjo,KO,300,11/07/2023,11/09/2023,TP,M,31.7,37.62,0.496,1,1
+killifish,Aripo,Naranjo,KO,301,11/07/2023,11/09/2023,RSM,M,34.68,41.38,0.6,1,1
+killifish,Aripo,Naranjo,KO,302,11/07/2023,11/09/2023,RSM,I,25.39,30.58,0.267,0,1
+killifish,Aripo,Naranjo,KO,303,11/07/2023,11/09/2023,TP,I,28.8,35.15,0.399,0,0
+killifish,Aripo,Naranjo,KO,304,11/07/2023,11/09/2023,DLM,M,35.59,42.38,0.672,1,1
+killifish,Aripo,Naranjo,KO,305,11/07/2023,11/09/2023,RSM,I,21.18,24.91,0.112,0,0
+killifish,Aripo,Naranjo,KO,306,11/07/2023,11/09/2023,DLM,I,30.4,37.75,0.452,0,0
+killifish,Aripo,Naranjo,KO,307,11/07/2023,11/09/2023,RSM,M,31.96,38.43,0.493,1,1
+killifish,Aripo,Naranjo,KO,308,11/07/2023,11/09/2023,TP,M,34.03,41.25,0.698,0,0
+killifish,Aripo,Naranjo,KO,309,11/07/2023,11/09/2023,RSM,F,64.65,72.56,4.009,0,1
+killifish,Aripo,Naranjo,KO,310,11/07/2023,11/09/2023,DLM,M,70.48,81.22,5.431,0,0
+killifish,Aripo,Naranjo,KO,311,11/07/2023,11/09/2023,TP,M,76.73,91.83,7.46,0,0
+killifish,Aripo,Naranjo,KO,312,11/07/2023,11/09/2023,RSM,F,55.59,63.06,2.304,0,1
+killifish,Aripo,Naranjo,KO,313,11/07/2023,11/09/2023,TP,M,39.86,48.16,0.958,0,1
+killifish,Aripo,Naranjo,KO,314,11/07/2023,11/09/2023,RSM,M,50.81,58.91,2.101,0,0
+killifish,Aripo,Naranjo,KO,315,11/07/2023,11/09/2023,DLM,F,55.01,61.44,2.263,0,1
+killifish,Aripo,Naranjo,KO,316,11/07/2023,11/09/2023,RSM,F,45.04,51.56,1.16,0,1
+killifish,Aripo,Naranjo,KO,317,11/07/2023,11/09/2023,TP,M,38.32,46.29,0.889,0,0
+killifish,Aripo,Naranjo,KO,318,11/07/2023,11/09/2023,DLM,M,44.46,50.69,1.279,1,1
+killifish,Aripo,Naranjo,KO,319,11/07/2023,11/09/2023,RSM,F,48.29,54.42,1.552,0,0
+killifish,Aripo,Naranjo,KO,320,11/07/2023,11/09/2023,TP,F,37.26,45.45,0.803,0,1
+killifish,Aripo,Naranjo,KO,321,11/07/2023,11/09/2023,TP,F,40.6,49.86,1.006,1,1
+killifish,Aripo,Naranjo,KO,322,11/07/2023,11/09/2023,DLM,M,38.43,46.21,0.83,0,1
+killifish,Aripo,Naranjo,KO,323,11/07/2023,11/09/2023,RSM,F,43.57,51.6,1.148,1,1
+killifish,Aripo,Naranjo,KO,324,11/07/2023,11/09/2023,DLM,F,32.18,38.22,0.514,0,1
+killifish,Aripo,Naranjo,KO,325,11/07/2023,11/09/2023,RSM,M,37.54,45.83,0.881,0,1
+killifish,Aripo,Naranjo,KO,326,11/07/2023,11/09/2023,TP,F,50.16,58.48,1.827,0,1
+killifish,Aripo,Naranjo,KO,327,11/07/2023,11/09/2023,DLM,F,57.15,64.7,2.726,0,1
+killifish,Aripo,Naranjo,KO,328,11/07/2023,11/09/2023,RSM,M,46.31,51.82,1.416,0,1
+killifish,Aripo,Naranjo,KO,329,11/07/2023,11/09/2023,TP,F,78.36,93.95,9.125,0,0
+killifish,Aripo,Naranjo,KO,330,11/07/2023,11/09/2023,RSM,M,76.44,85.73,6.322,0,0
+killifish,Aripo,Naranjo,KO,331,11/07/2023,11/09/2023,DLM,F,73.8,80.93,5.892,0,0
+killifish,Aripo,Naranjo,KO,332,11/07/2023,11/09/2023,RSM,F,49.87,58.06,1.929,0,0
+killifish,Aripo,Naranjo,KO,333,11/07/2023,11/09/2023,TP,M,49.04,58.89,1.952,0,0
+killifish,Aripo,Naranjo,KO,334,11/07/2023,11/09/2023,RSM,M,54.89,63,2.08,0,1
+killifish,Aripo,Naranjo,KO,335,11/07/2023,11/09/2023,DLM,F,59.03,68.64,3.008,0,0
+killifish,Aripo,Naranjo,KO,336,11/07/2023,11/09/2023,TP,F,66.78,78.38,5.339,0,0
+killifish,Aripo,Naranjo,KO,337,11/07/2023,11/09/2023,RSM,F,46.83,55.21,1.313,0,1
+killifish,Aripo,Naranjo,KO,338,11/07/2023,11/09/2023,DLM,M,64.42,77.58,4.717,0,0
+killifish,Aripo,Naranjo,KO,339,11/07/2023,11/09/2023,TP,M,59.83,71.46,3.801,0,0
+killifish,Aripo,Naranjo,KG,340,11/07/2023,11/09/2023,MLH,I,30.33,37.53,0.439,0,0
+killifish,Aripo,Naranjo,KG,341,11/07/2023,11/09/2023,DLM,M,40.11,48.63,0.978,0,1
+killifish,Aripo,Naranjo,KG,342,11/07/2023,11/09/2023,RSM,I,27.47,33.42,0.342,0,1
+killifish,Aripo,Naranjo,KG,343,11/07/2023,11/09/2023,RSM,I,32.82,37.98,0.509,0,1
+killifish,Aripo,Naranjo,KG,344,11/07/2023,11/09/2023,DLM,I,40.3,45.7,0.855,0,1
+killifish,Aripo,Naranjo,KG,345,11/07/2023,11/09/2023,MLH,F,39.38,46.26,0.874,0,1
+killifish,Aripo,Naranjo,KG,346,11/07/2023,11/09/2023,DLM,I,29.15,35,0.401,1,1
+killifish,Aripo,Naranjo,KG,347,11/07/2023,11/09/2023,RSM,M,30.79,38.14,0.404,1,1
+killifish,Aripo,Naranjo,KG,348,11/07/2023,11/09/2023,DLM,I,27.87,34.85,0.35,0,1
+killifish,Aripo,Naranjo,KG,349,11/07/2023,11/09/2023,RSM,I,28.8,34.3,0.399,0,1
+killifish,Aripo,Naranjo,KG,350,11/07/2023,11/09/2023,MLH,M,49.55,58.45,1.705,1,1
+killifish,Aripo,Naranjo,KG,351,11/07/2023,11/09/2023,DLM,F,30,35.23,0.377,0,1
+killifish,Aripo,Naranjo,KG,352,11/07/2023,11/09/2023,RSM,F,45.22,52.91,1.777,0,0
+killifish,Aripo,Naranjo,KG,353,11/07/2023,11/09/2023,DLM,F,41.46,46.86,1.017,0,1
+killifish,Aripo,Naranjo,KG,354,11/07/2023,11/09/2023,MLH,F,36.67,44.75,0.769,0,1
+killifish,Aripo,Naranjo,KG,355,11/07/2023,11/09/2023,RSM,F,56.81,64.86,2.83,0,0
+killifish,Aripo,Naranjo,KG,356,11/07/2023,11/09/2023,DLM,F,45.09,54,1.642,1,1
+killifish,Aripo,Naranjo,KG,357,11/07/2023,11/09/2023,RSM,F,38.91,45.67,0.913,1,1
+killifish,Aripo,Naranjo,KG,358,11/07/2023,11/09/2023,DLM,F,40.55,46.31,0.86,1,1
+killifish,Aripo,Naranjo,KG,359,11/07/2023,11/09/2023,RSM,F,61.9,69.71,3.36,0,0
+killifish,Aripo,Naranjo,KG,360,11/07/2023,11/09/2023,MLH,M,43.23,53.1,1.323,0,0
+killifish,Aripo,Naranjo,KG,361,11/07/2023,11/09/2023,DLM,F,49.88,59.73,2.043,1,1
+killifish,Aripo,Naranjo,KG,362,11/07/2023,11/09/2023,RSM,F,52.8,61.06,2.135,0,1
+killifish,Aripo,Naranjo,KG,363,11/07/2023,11/09/2023,MLH,M,55.57,68.38,3.016,1,1
+killifish,Aripo,Naranjo,KG,364,11/07/2023,11/09/2023,DLM,F,51.14,57.85,1.899,1,1
+guppy,Aripo,Naranjo,KG,497,11/07/2023,11/10/2023,DLM,M,20,,0.147,0,1
+guppy,Aripo,Naranjo,KG,498,11/07/2023,11/10/2023,MLH,F,22.72,,0.264,0,1
+guppy,Aripo,Naranjo,KG,499,11/07/2023,11/10/2023,IMM,F,19.75,,0.16,0,0
+guppy,Aripo,Naranjo,KG,500,11/07/2023,11/10/2023,RSM,F,18.27,,0.12,1,1
+guppy,Aripo,Naranjo,KG,501,11/07/2023,11/10/2023,IMM,F,11.66,,0.027,0,0
+guppy,Aripo,Naranjo,KG,502,11/07/2023,11/10/2023,DLM,F,20.37,,0.147,0,0
+guppy,Aripo,Naranjo,KG,503,11/07/2023,11/10/2023,RSM,M,16.67,,0.116,1,1
+guppy,Aripo,Naranjo,KG,504,11/07/2023,11/10/2023,MLH,F,17.48,,0.115,0,1
+guppy,Aripo,Naranjo,KG,505,11/07/2023,11/10/2023,DLM,F,17.95,,0.125,0,0
+guppy,Aripo,Naranjo,KG,506,11/07/2023,11/10/2023,RSM,F,17.55,,0.101,0,1
+guppy,Aripo,Naranjo,KG,507,11/07/2023,11/10/2023,IMM,M,14.77,,0.071,0,0
+guppy,Aripo,Naranjo,KG,508,11/07/2023,11/10/2023,MLH,F,15.26,,0.07,0,1
+guppy,Aripo,Naranjo,KG,509,11/07/2023,11/10/2023,RSM,F,21.7,,0.131,0,1
+guppy,Aripo,Naranjo,KG,510,11/07/2023,11/10/2023,DLM,F,26.05,,0.424,0,1
+guppy,Aripo,Naranjo,KG,511,11/07/2023,11/10/2023,RSM,F,21.97,,0.228,0,0
+guppy,Aripo,Naranjo,KG,512,11/07/2023,11/10/2023,IMM,F,24.32,,0.345,0,1
+guppy,Aripo,Naranjo,KG,513,11/07/2023,11/10/2023,DLM,M,16.18,,0.1,1,1
+guppy,Aripo,Naranjo,KG,514,11/07/2023,11/10/2023,MLH,F,16.23,,0.087,1,1
+guppy,Aripo,Naranjo,KG,515,11/07/2023,11/10/2023,RSM,M,20.07,,0.116,1,1
+guppy,Aripo,Naranjo,KG,516,11/07/2023,11/10/2023,DLM,F,12.76,,0.048,0,0
+guppy,Aripo,Naranjo,KG,517,11/07/2023,11/10/2023,RSM,M,17.2,,0.095,1,1
+guppy,Aripo,Naranjo,KG,518,11/07/2023,11/10/2023,IMM,F,22.48,,0.279,0,1
+guppy,Aripo,Naranjo,KG,519,11/07/2023,11/10/2023,DLM,F,18.02,,0.125,0,1
+guppy,Aripo,Naranjo,KG,520,11/07/2023,11/10/2023,MLH,F,18.37,,0.122,0,1
+guppy,Aripo,Naranjo,KG,521,11/07/2023,11/10/2023,RSM,F,13.38,,0.066,0,1
+guppy,Aripo,Naranjo,KG,522,11/07/2023,11/10/2023,DLM,F,15.29,,0.077,0,1
+guppy,Aripo,Naranjo,KG,523,11/07/2023,11/10/2023,RSM,M,17.15,,0.108,0,1
+guppy,Aripo,Naranjo,KG,524,11/07/2023,11/10/2023,IMM,F,11.87,,0.032,0,0
+guppy,Aripo,Naranjo,KG,525,11/07/2023,11/10/2023,DLM,M,17.05,,0.086,1,1
+guppy,Aripo,Naranjo,KG,526,11/07/2023,11/10/2023,MLH,F,25.87,,0.271,0,1
+guppy,Aripo,Naranjo,KG,527,11/07/2023,11/10/2023,RSM,F,34.8,,0.748,0,1
+guppy,Aripo,Naranjo,KG,528,11/07/2023,11/10/2023,DLM,F,23.91,,0.281,0,1
+guppy,Aripo,Naranjo,KG,529,11/07/2023,11/10/2023,RSM,F,23.06,,0.225,0,1
+guppy,Aripo,Naranjo,KG,530,11/07/2023,11/10/2023,IMM,F,26.79,,0.42,0,1
+guppy,Aripo,Naranjo,KG,531,11/07/2023,11/10/2023,DLM,F,19.77,,0.147,0,1
+guppy,Aripo,Naranjo,KG,532,11/07/2023,11/10/2023,RSM,F,20.08,,0.161,1,1
+guppy,Aripo,Naranjo,KG,533,11/07/2023,11/10/2023,DLM,M,17.69,,0.126,1,1
+guppy,Aripo,Naranjo,KG,534,11/07/2023,11/10/2023,MLH,F,13.83,,0.057,0,0
+guppy,Aripo,Naranjo,KG,535,11/07/2023,11/10/2023,IMM,M,16.69,,0.102,0,0
+guppy,Aripo,Naranjo,KG,536,11/07/2023,11/10/2023,DLM,F,15.3,,0.067,0,0
+guppy,Aripo,Naranjo,KG,537,11/07/2023,11/10/2023,RSM,F,9.3,,0.021,0,0
+guppy,Aripo,Naranjo,KG,538,11/07/2023,11/10/2023,DLM,I,10.79,,0.025,0,1
+killifish,Aripo,Endler,KO,365,11/08/2023,11/09/2023,RSM,I,11.62,13.6,0.029,0,0
+killifish,Aripo,Endler,KO,366,11/08/2023,11/09/2023,MLH,F,41.65,49.57,0.962,0,0
+killifish,Aripo,Endler,KO,367,11/08/2023,11/09/2023,DLM,M,40.93,46.64,0.885,1,1
+killifish,Aripo,Endler,KO,368,11/08/2023,11/09/2023,RSM,F,43.02,50.32,1.099,1,1
+killifish,Aripo,Endler,KO,369,11/08/2023,11/09/2023,DLM,I,32.15,37.76,0.439,1,1
+killifish,Aripo,Endler,KO,370,11/08/2023,11/09/2023,MLH,M,42.65,50.67,1.021,0,1
+killifish,Aripo,Endler,KO,371,11/08/2023,11/09/2023,RSM,F,39.63,46.57,0.919,0,1
+killifish,Aripo,Endler,KO,372,11/08/2023,11/09/2023,DLM,F,35.19,43.31,0.682,0,1
+killifish,Aripo,Endler,KO,373,11/08/2023,11/09/2023,RSM,I,15.1,16.62,0.045,0,0
+killifish,Aripo,Endler,KO,374,11/08/2023,11/09/2023,DLM,F,53.56,62.13,2.339,0,1
+killifish,Aripo,Endler,KO,375,11/08/2023,11/09/2023,MLH,M,55.08,63.09,2.457,0,0
+killifish,Aripo,Endler,KO,376,11/08/2023,11/09/2023,RSM,I,19.43,22.74,0.102,0,1
+killifish,Aripo,Endler,KO,377,11/08/2023,11/09/2023,DLM,I,20.97,24.91,0.143,1,1
+killifish,Aripo,Endler,KO,378,11/08/2023,11/09/2023,RSM,I,18.76,22.36,0.087,0,0
+killifish,Aripo,Endler,KO,379,11/08/2023,11/09/2023,MLH,I,19.38,23.39,0.103,0,0
+killifish,Aripo,Endler,KO,380,11/08/2023,11/09/2023,RSM,I,15.5,17.32,0.045,1,1
+killifish,Aripo,Endler,KO,381,11/08/2023,11/09/2023,DLM,M,41.26,50.31,0.98,1,1
+killifish,Aripo,Endler,KO,382,11/08/2023,11/09/2023,MLH,M,32.33,39.68,0.525,0,0
+killifish,Aripo,Endler,KO,383,11/08/2023,11/09/2023,DLM,F,38.54,46.8,0.769,1,1
+killifish,Aripo,Endler,KO,384,11/08/2023,11/09/2023,RSM,F,31.87,36.98,0.46,1,1
+killifish,Aripo,Endler,KO,385,11/08/2023,11/09/2023,MLH,I,22.45,27.49,0.163,0,1
+killifish,Aripo,Endler,KO,386,11/08/2023,11/09/2023,DLM,I,30.62,37.26,0.419,1,1
+killifish,Aripo,Endler,KO,387,11/08/2023,11/09/2023,RSM,I,29.2,33.65,0.32,1,1
+killifish,Aripo,Endler,KO,388,11/08/2023,11/09/2023,DLM,F,37.76,46.43,0.869,1,1
+killifish,Aripo,Endler,KO,389,11/08/2023,11/09/2023,RSM,F,37.97,44.2,0.769,0,1
+killifish,Aripo,Endler,KO,390,11/08/2023,11/09/2023,MLH,I,22.85,27.53,0.173,0,1
+killifish,Aripo,Endler,KO,391,11/08/2023,11/09/2023,RSM,I,25.33,29.15,0.194,0,0
+killifish,Aripo,Endler,KO,392,11/08/2023,11/09/2023,DLM,I,29.07,33.83,0.311,0,1
+killifish,Aripo,Endler,KO,394,11/08/2023,11/09/2023,MLH,F,36.3,43.6,0.847,1,1
+killifish,Aripo,Endler,KO,395,11/08/2023,11/09/2023,RSM,F,39.24,46.56,0.843,0,0
+killifish,Aripo,Endler,KO,396,11/08/2023,11/09/2023,DLM,M,41.51,48.52,1.005,1,1
+killifish,Aripo,Endler,KO,397,11/08/2023,11/09/2023,DLM,M,47.36,55.69,1.618,0,1
+killifish,Aripo,Endler,KO,398,11/08/2023,11/09/2023,MLH,M,35.14,44.46,0.775,0,1
+killifish,Aripo,Endler,KO,399,11/08/2023,11/09/2023,RSM,F,39.89,46.62,1.064,1,1
+killifish,Aripo,Endler,KO,400,11/08/2023,11/09/2023,RSM,M,38.74,45.29,0.821,0,1
+killifish,Aripo,Endler,KO,401,11/08/2023,11/09/2023,DLM,F,48.64,56.28,1.449,0,0
+killifish,Aripo,Endler,KO,402,11/08/2023,11/09/2023,MLH,M,41.74,50.09,1.065,1,1
+killifish,Aripo,Endler,KO,403,11/08/2023,11/09/2023,RSM,M,58.41,69.03,2.929,0,0
+killifish,Aripo,Endler,KO,404,11/08/2023,11/09/2023,DLM,F,55.15,67.71,2.504,0,1
+killifish,Aripo,Endler,KO,405,11/08/2023,11/09/2023,RSM,M,60.42,71.51,3.055,0,0
+killifish,Aripo,Endler,KO,406,11/08/2023,11/09/2023,MLH,F,51.97,61.2,2.015,0,1
+killifish,Aripo,Endler,KO,407,11/08/2023,11/09/2023,DLM,F,56.3,64.67,2.168,1,1
+killifish,Aripo,Endler,KO,408,11/08/2023,11/09/2023,RSM,F,45.6,53.29,1.315,1,1
+killifish,Aripo,Endler,KO,409,11/08/2023,11/09/2023,DLM,M,50.05,59.38,1.895,1,1
+killifish,Aripo,Endler,KO,410,11/08/2023,11/09/2023,MLH,F,73.09,85.6,5.697,0,0
+killifish,Aripo,Endler,KO,411,11/08/2023,11/09/2023,RSM,F,66.01,75.22,3.97,0,0
+killifish,Aripo,Endler,KG,412,11/08/2023,11/09/2023,RSM,I,32.46,38.81,0.464,1,1
+killifish,Aripo,Endler,KG,413,11/08/2023,11/09/2023,IMM,M,36.31,43.1,0.769,0,1
+killifish,Aripo,Endler,KG,414,11/08/2023,11/09/2023,MLH,F,33.81,39.99,0.456,1,1
+killifish,Aripo,Endler,KG,415,11/08/2023,11/09/2023,RSM,F,44.01,52.19,1.229,0,0
+killifish,Aripo,Endler,KG,416,11/08/2023,11/09/2023,IMM,M,33.17,39.71,0.534,0,1
+killifish,Aripo,Endler,KG,417,11/08/2023,11/09/2023,RSM,F,41.72,49.07,1.084,0,1
+killifish,Aripo,Endler,KG,418,11/08/2023,11/09/2023,MLH,M,39.26,46.83,0.829,1,1
+killifish,Aripo,Endler,KG,419,11/08/2023,11/09/2023,RSM,M,43.28,50.36,1.129,0,0
+killifish,Aripo,Endler,KG,420,11/08/2023,11/09/2023,IMM,M,41.97,49.83,1.134,0,1
+killifish,Aripo,Endler,KG,421,11/08/2023,11/09/2023,MLH,F,38.35,45.65,0.75,0,0
+killifish,Aripo,Endler,KG,422,11/08/2023,11/09/2023,RSM,I,27.92,30.82,0.339,1,1
+killifish,Aripo,Endler,KG,423,11/08/2023,11/09/2023,RSM,I,22.92,28.41,0.201,1,1
+killifish,Aripo,Endler,KG,424,11/08/2023,11/09/2023,IMM,I,18.42,23.9,0.118,0,0
+killifish,Aripo,Endler,KG,425,11/08/2023,11/09/2023,MLH,I,21.39,26.43,0.132,0,0
+killifish,Aripo,Endler,KG,426,11/08/2023,11/09/2023,RSM,I,28.72,33.28,0.323,0,1
+killifish,Aripo,Endler,KG,427,11/08/2023,11/09/2023,IMM,M,39.22,47.22,0.958,0,0
+killifish,Aripo,Endler,KG,428,11/08/2023,11/09/2023,RSM,M,35.3,43.86,0.802,0,0
+killifish,Aripo,Endler,KG,429,11/08/2023,11/09/2023,MLH,M,40.19,49.13,0.989,0,1
+killifish,Aripo,Endler,KG,430,11/08/2023,11/09/2023,RSM,M,57.88,68.72,3.331,0,0
+killifish,Aripo,Endler,KG,431,11/08/2023,11/09/2023,IMM,M,49.54,56.82,1.769,0,1
+killifish,Aripo,Endler,KG,432,11/08/2023,11/09/2023,MLH,F,49.27,58.78,1.67,0,1
+killifish,Aripo,Endler,KG,433,11/08/2023,11/09/2023,RSM,M,35.92,44.36,0.78,0,1
+killifish,Aripo,Endler,KG,434,11/08/2023,11/09/2023,IMM,F,50.18,57.5,1.693,0,0
+killifish,Aripo,Endler,KG,435,11/08/2023,11/09/2023,RSM,F,33.95,40.9,0.717,1,1
+killifish,Aripo,Endler,KG,436,11/08/2023,11/09/2023,RSM,M,40.71,49.69,0.8,1,1
+killifish,Aripo,Endler,KG,437,11/08/2023,11/09/2023,IMM,F,30.42,33.99,0.356,1,1
+killifish,Aripo,Endler,KG,438,11/08/2023,11/09/2023,MLH,F,56.82,67.4,2.514,1,1
+killifish,Aripo,Endler,KG,439,11/08/2023,11/09/2023,RSM,F,63.43,74.25,4.18,0,0
+killifish,Aripo,Endler,KG,440,11/08/2023,11/09/2023,IMM,M,62.12,69.48,3.076,0,0
+killifish,Aripo,Endler,KG,441,11/08/2023,11/09/2023,IMM,F,52.81,59.86,1.966,0,0
+killifish,Aripo,Endler,KG,442,11/08/2023,11/09/2023,RSM,F,66.53,76.23,4.631,1,1
+killifish,Aripo,Endler,KG,443,11/08/2023,11/09/2023,MLH,M,49.54,60.47,1.899,0,1
+killifish,Aripo,Endler,KG,444,11/08/2023,11/09/2023,RSM,F,68.46,76.61,4.429,0,0
+killifish,Aripo,Endler,KG,445,11/08/2023,11/09/2023,MLH,M,41.51,48.9,1.004,0,0
+killifish,Aripo,Endler,KG,446,11/08/2023,11/09/2023,IMM,M,41.1,47.54,0.975,0,0
+killifish,Aripo,Endler,KG,447,11/08/2023,11/09/2023,RSM,M,31.12,40.41,0.584,0,1
+killifish,Aripo,Endler,KG,448,11/08/2023,11/09/2023,RSM,F,44.96,50.64,1.218,0,0
+killifish,Aripo,Endler,KG,449,11/08/2023,11/09/2023,MLH,M,40.16,47.97,1.03,1,1
+killifish,Aripo,Endler,KG,450,11/08/2023,11/09/2023,IMM,F,45.38,50.84,1.192,1,1
+killifish,Aripo,Endler,KG,451,11/08/2023,11/09/2023,RSM,F,40.43,45.21,0.921,0,0
+killifish,Aripo,Endler,KG,452,11/08/2023,11/09/2023,MLH,M,38.77,49.06,0.983,0,1
+killifish,Aripo,Endler,KG,453,11/08/2023,11/09/2023,RSM,F,47.53,54.97,1.703,0,1
+killifish,Aripo,Endler,KG,454,11/08/2023,11/09/2023,RSM,M,43.62,48.21,0.974,1,1
+killifish,Aripo,Endler,KG,455,11/08/2023,11/09/2023,MLH,I,30.52,37.71,0.351,0,1
+killifish,Aripo,Endler,KG,456,11/08/2023,11/09/2023,IMM,M,35.06,41.78,0.674,1,1
+killifish,Aripo,Endler,KG,457,11/08/2023,11/09/2023,RSM,F,39.15,45.67,0.91,0,1
+killifish,Aripo,Endler,KG,458,11/08/2023,11/09/2023,IMM,M,32.34,38.6,0.502,0,0
+killifish,Aripo,Endler,KG,459,11/08/2023,11/09/2023,MLH,F,32.1,34.89,0.45,0,1
+killifish,Aripo,Endler,KG,460,11/08/2023,11/09/2023,RSM,M,32.58,41.51,0.624,0,1
+killifish,Aripo,Endler,KG,461,11/08/2023,11/09/2023,IMM,I,31.32,36.39,0.402,0,1
+killifish,Aripo,Endler,KG,462,11/08/2023,11/09/2023,RSM,I,20.71,24.73,0.135,0,1
+killifish,Aripo,Endler,KG,463,11/08/2023,11/09/2023,RSM,I,20.24,23.97,0.113,0,1
+killifish,Aripo,Endler,KG,464,11/08/2023,11/09/2023,IMM,I,15.99,20.77,0.074,0,1
+guppy,Aripo,Endler,KG,539,11/08/2023,11/10/2023,DLM,M,16.02,,0.08,1,1
+guppy,Aripo,Endler,KG,540,11/08/2023,11/10/2023,MLH,F,21.86,,0.192,0,0
+guppy,Aripo,Endler,KG,541,11/08/2023,11/10/2023,IMM,M,17.01,,0.097,1,1
+guppy,Aripo,Endler,KG,542,11/08/2023,11/10/2023,RSM,F,33.11,,0.563,0,0
+guppy,Aripo,Endler,KG,543,11/08/2023,11/10/2023,RSM,F,33.34,,0.64,0,1
+guppy,Aripo,Endler,KG,544,11/08/2023,11/10/2023,DLM,F,20.83,,0.209,0,1
+guppy,Aripo,Endler,KG,545,11/08/2023,11/10/2023,IMM,F,21.65,,0.207,0,0
+guppy,Aripo,Endler,KG,546,11/08/2023,11/10/2023,RSM,F,21.14,,0.203,0,1
+guppy,Aripo,Endler,KG,547,11/08/2023,11/10/2023,MLH,M,16.65,,0.107,1,1
+guppy,Aripo,Endler,KG,548,11/08/2023,11/10/2023,DLM,F,18.72,,0.134,0,1
+guppy,Aripo,Endler,KG,549,11/08/2023,11/10/2023,RSM,F,18.28,,0.103,0,0
+guppy,Aripo,Endler,KG,550,11/08/2023,11/10/2023,IMM,F,26.83,,0.466,0,1
+guppy,Aripo,Endler,KG,551,11/08/2023,11/10/2023,DLM,M,18.35,,0.123,0,0
+guppy,Aripo,Endler,KG,552,11/08/2023,11/10/2023,RSM,M,18.32,,0.11,0,0
+guppy,Aripo,Endler,KG,553,11/08/2023,11/10/2023,MLH,F,25.54,,0.345,0,1
+guppy,Aripo,Endler,KG,554,11/08/2023,11/10/2023,RSM,M,18.87,,0.111,0,0
+guppy,Aripo,Endler,KG,555,11/08/2023,11/10/2023,DLM,F,16.77,,0.108,0,0
+guppy,Aripo,Endler,KG,556,11/08/2023,11/10/2023,RSM,F,20.25,,0.162,0,1
+guppy,Aripo,Endler,KG,557,11/08/2023,11/10/2023,DLM,F,19.7,,0.19,0,0
+guppy,Aripo,Endler,KG,558,11/08/2023,11/10/2023,IMM,F,18.24,,0.107,0,1
+guppy,Aripo,Endler,KG,559,11/08/2023,11/10/2023,RSM,F,27.66,,0.369,0,1
+guppy,Aripo,Endler,KG,560,11/08/2023,11/10/2023,MLH,F,20.51,,0.173,0,0
+guppy,Aripo,Endler,KG,561,11/08/2023,11/10/2023,DLM,F,12.95,,0.042,0,0
+guppy,Aripo,Endler,KG,562,11/08/2023,11/10/2023,RSM,F,22.38,,0.151,0,0
+guppy,Aripo,Endler,KG,563,11/08/2023,11/10/2023,IMM,F,22.53,,0.226,0,0
+guppy,Aripo,Endler,KG,564,11/08/2023,11/10/2023,RSM,F,21.69,,0.166,0,0
+guppy,Aripo,Endler,KG,565,11/08/2023,11/10/2023,DLM,F,25.63,,0.36,0,1
+guppy,Aripo,Endler,KG,566,11/08/2023,11/10/2023,MLH,F,27.86,,0.492,0,0
+guppy,Aripo,Endler,KG,567,11/08/2023,11/10/2023,RSM,M,17.81,,0.103,0,0
+guppy,Aripo,Endler,KG,568,11/08/2023,11/10/2023,DLM,F,23.65,,0.247,0,1
+guppy,Aripo,Endler,KG,569,11/08/2023,11/10/2023,RSM,F,25.14,,0.245,0,0
+guppy,Aripo,Endler,KG,570,11/08/2023,11/10/2023,IMM,F,21.16,,0.204,0,0
+guppy,Aripo,Endler,KG,571,11/08/2023,11/10/2023,DLM,F,20.28,,0.181,0,1
+guppy,Aripo,Endler,KG,572,11/08/2023,11/10/2023,RSM,F,20.89,,0.182,0,0
+guppy,Aripo,Endler,KG,573,11/08/2023,11/10/2023,DLM,,16.52,,0.089,0,0
+guppy,Aripo,Endler,KG,574,11/08/2023,11/10/2023,RSM,F,19.62,,0.125,0,0
+guppy,Aripo,Endler,KG,575,11/08/2023,11/10/2023,MLH,M,16.13,,0.089,0,0
+guppy,Aripo,Endler,KG,576,11/08/2023,11/10/2023,DLM,F,19.68,,0.146,0,0
+guppy,Aripo,Endler,KG,577,11/08/2023,11/10/2023,IMM,M,16.17,,0.086,0,0
+guppy,Aripo,Endler,KG,578,11/08/2023,11/10/2023,RSM,M,16.75,,0.072,0,0
+killifish,Guanapo,El Cedro,KO,904,12/30/2023,12/31/2023,MLH,F,61.24,69.11,3.308,,0
+killifish,Guanapo,El Cedro,KO,905,12/30/2023,12/31/2023,RSM,M,60,69.36,3.154,,0
+killifish,Guanapo,El Cedro,KO,906,12/30/2023,12/31/2023,MLH,F,41.52,48.79,0.918,,1
+killifish,Guanapo,El Cedro,KO,907,12/30/2023,12/31/2023,RSM,M,53.91,64.93,2.741,,0
+killifish,Guanapo,El Cedro,KO,908,12/30/2023,12/31/2023,RSM,F,48.31,55.85,1.712,,0
+killifish,Guanapo,El Cedro,KO,909,12/30/2023,12/31/2023,MLH,M,59.15,67.39,2.889,,1
+killifish,Guanapo,El Cedro,KO,910,12/30/2023,12/31/2023,RSM,M,43.67,52.27,1.278,,0
+killifish,Guanapo,El Cedro,KO,911,12/30/2023,12/31/2023,RSM,F,58.17,73.78,4.081,,0
+killifish,Guanapo,El Cedro,KO,912,12/30/2023,12/31/2023,MLH,F,30.1,35.04,0.347,,1
+killifish,Guanapo,El Cedro,KO,913,12/30/2023,12/31/2023,RSM,F,30.87,37.19,0.482,,0
+killifish,Guanapo,El Cedro,KO,914,12/30/2023,12/31/2023,RSM,I,28.65,33.34,0.385,,0
+killifish,Guanapo,El Cedro,KO,915,12/30/2023,12/31/2023,MLH,F,53.17,60.93,2.107,,0
+killifish,Guanapo,El Cedro,KO,916,12/30/2023,12/31/2023,RSM,M,35.43,40.17,0.695,,0
+killifish,Guanapo,El Cedro,KO,917,12/30/2023,12/31/2023,MLH,F,25.04,31.31,0.318,,1
+killifish,Guanapo,El Cedro,KO,918,12/30/2023,12/31/2023,RSM,M,29.06,31.84,0.304,,0
+killifish,Guanapo,El Cedro,KO,919,12/30/2023,12/31/2023,MLH,I,22.1,25.63,0.157,,1
+killifish,Guanapo,El Cedro,KO,920,12/30/2023,12/31/2023,RSM,F,75.05,84.61,6.345,,0
+killifish,Guanapo,El Cedro,KO,921,12/30/2023,12/31/2023,MLH,F,47.93,54.84,1.542,,0
+killifish,Guanapo,El Cedro,KO,922,12/30/2023,12/31/2023,RSM,M,45.45,49.96,1.408,,0
+killifish,Guanapo,El Cedro,KO,923,12/30/2023,12/31/2023,RSM,M,48.76,57.02,2.342,,0
+killifish,Guanapo,El Cedro,KO,924,12/30/2023,12/31/2023,MLH,I,68.24,76.99,4.858,,0
+killifish,Guanapo,El Cedro,KO,925,12/30/2023,12/31/2023,RSM,F,68.19,73.8,4.416,,1
+killifish,Guanapo,El Cedro,KO,926,12/30/2023,12/31/2023,RSM,F,46.11,54.77,1.62,,1
+killifish,Guanapo,El Cedro,KO,927,12/30/2023,12/31/2023,RSM,,30.81,37.78,0.615,,0
+killifish,Guanapo,El Cedro,KO,928,12/30/2023,12/31/2023,MLH,F,32.38,38.5,0.492,,1
+killifish,Guanapo,El Cedro,KO,929,12/30/2023,12/31/2023,MLH,F,41.89,47.68,0.984,,1
+killifish,Guanapo,El Cedro,KO,930,12/30/2023,12/31/2023,RSM,F,37.77,44.71,0.83,,0
+killifish,Guanapo,El Cedro,KO,931,12/30/2023,12/31/2023,RSM,M,36.86,40.38,0.772,,1
+killifish,Guanapo,El Cedro,KO,932,12/30/2023,12/31/2023,MLH,M,35.76,44.17,0.729,,1
+killifish,Guanapo,El Cedro,KO,933,12/30/2023,12/31/2023,MLH,M,34.83,40.81,0.593,,1
+killifish,Guanapo,El Cedro,KO,934,12/30/2023,12/31/2023,RSM,I,16.84,19.07,0.09,,1
+killifish,Guanapo,El Cedro,KO,935,12/30/2023,12/31/2023,MLH,I,22.62,27.61,0.202,,1
+killifish,Guanapo,El Cedro,KO,936,12/30/2023,12/31/2023,RSM,I,14.43,20.9,0.108,,0
+killifish,Guanapo,El Cedro,KO,937,12/30/2023,12/31/2023,MLH,F,48.97,56.33,1.625,,1
+killifish,Guanapo,El Cedro,KO,938,12/30/2023,12/31/2023,RSM,F,49.11,56.3,1.858,,0
+killifish,Guanapo,El Cedro,KO,939,12/30/2023,12/31/2023,MLH,M,35.21,41.81,0.649,,1
+killifish,Guanapo,El Cedro,KO,940,12/30/2023,12/31/2023,MLH,F,56.76,66.02,2.857,,1
+killifish,Guanapo,El Cedro,KO,941,12/30/2023,12/31/2023,RSM,M,36.41,43.03,0.79,,0
+killifish,Guanapo,El Cedro,KO,942,12/30/2023,12/31/2023,RSM,M,38.41,47.69,1.046,,1
+killifish,Guanapo,El Cedro,KO,943,12/30/2023,12/31/2023,MLH,M,45.19,52.04,1.373,,0
+killifish,Guanapo,El Cedro,KO,944,12/30/2023,12/31/2023,RSM,F,39.32,44.9,0.841,,0
+guppy,Guanapo,El Cedro,KG,945,12/30/2023,12/31/2023,DLM,F,18.59,,0.116,,1
+guppy,Guanapo,El Cedro,KG,946,12/30/2023,12/31/2023,RSM,M,14.02,,0.071,,1
+guppy,Guanapo,El Cedro,KG,947,12/30/2023,12/31/2023,RSM,F,14.92,,0.103,,1
+guppy,Guanapo,El Cedro,KG,948,12/30/2023,12/31/2023,DLM,M,15.93,,0.081,,0
+guppy,Guanapo,El Cedro,KG,949,12/30/2023,12/31/2023,DLM,F,24.97,,0.395,,0
+guppy,Guanapo,El Cedro,KG,950,12/30/2023,12/31/2023,RSM,M,17.63,,0.097,,1
+guppy,Guanapo,El Cedro,KG,951,12/30/2023,12/31/2023,RSM,F,17.22,,0.13,,1
+guppy,Guanapo,El Cedro,KG,952,12/30/2023,12/31/2023,DLM,F,16.92,,0.096,,0
+guppy,Guanapo,El Cedro,KG,953,12/30/2023,12/31/2023,RSM,M,17.34,,0.113,,1
+guppy,Guanapo,El Cedro,KG,954,12/30/2023,12/31/2023,DLM,F,19.48,,0.135,,0
+guppy,Guanapo,El Cedro,KG,955,12/30/2023,12/31/2023,DLM,M,17.28,,0.119,,0
+guppy,Guanapo,El Cedro,KG,956,12/30/2023,12/31/2023,RSM,F,14.01,,0.064,,1
+guppy,Guanapo,El Cedro,KG,957,12/30/2023,12/31/2023,RSM,M,16.62,,0.1,,0
+guppy,Guanapo,El Cedro,KG,958,12/30/2023,12/31/2023,DLM,F,20.71,,0.187,,1
+guppy,Guanapo,El Cedro,KG,960,12/30/2023,12/31/2023,DLM,F,18.28,,0.141,,1
+guppy,Guanapo,El Cedro,KG,959,12/30/2023,12/31/2023,RSM,F,19.21,,0.155,,1
+guppy,Guanapo,El Cedro,KG,961,12/30/2023,12/31/2023,RSM,F,18.14,,0.178,,1
+guppy,Guanapo,El Cedro,KG,962,12/30/2023,12/31/2023,DLM,F,23.95,,0.24,,1
+guppy,Guanapo,El Cedro,KG,963,12/30/2023,12/31/2023,RSM,F,16.72,,0.089,,0
+guppy,Guanapo,El Cedro,KG,964,12/30/2023,12/31/2023,RSM,F,29.62,,0.631,,1
+guppy,Guanapo,El Cedro,KG,965,12/30/2023,12/31/2023,DLM,F,13.81,,0.058,,1
+guppy,Guanapo,El Cedro,KG,966,12/30/2023,12/31/2023,RSM,M,18.18,,0.096,,0
+guppy,Guanapo,El Cedro,KG,967,12/30/2023,12/31/2023,DLM,F,20.93,,0.189,,1
+guppy,Guanapo,El Cedro,KG,968,12/30/2023,12/31/2023,RSM,F,23.02,,0.308,,0
+guppy,Guanapo,El Cedro,KG,969,12/30/2023,12/31/2023,DLM,F,16.7,,0.098,,0
+guppy,Guanapo,El Cedro,KG,970,12/30/2023,12/31/2023,RSM,M,15.8,,0.082,,0
+guppy,Guanapo,El Cedro,KG,971,12/30/2023,12/31/2023,DLM,M,17.38,,0.118,,0
+guppy,Guanapo,El Cedro,KG,972,12/30/2023,12/31/2023,RSM,M,16.66,,0.096,,0
+guppy,Guanapo,El Cedro,KG,973,12/30/2023,12/31/2023,DLM,F,16.56,,0.115,,0
+guppy,Guanapo,El Cedro,KG,974,12/30/2023,12/31/2023,RSM,F,24.89,,0.305,,0
+guppy,Guanapo,El Cedro,KG,975,12/30/2023,12/31/2023,DLM,F,19.66,,0.151,,1
+guppy,Guanapo,El Cedro,KG,976,12/30/2023,12/31/2023,RSM,M,16.03,,0.113,,0
+guppy,Guanapo,El Cedro,KG,977,12/30/2023,12/31/2023,RSM,F,29.08,,0.232,,0
+guppy,Guanapo,El Cedro,KG,978,12/30/2023,12/31/2023,DLM,F,23.73,,0.239,,1
+guppy,Guanapo,El Cedro,KG,979,12/30/2023,12/31/2023,RSM,M,12.74,,0.075,,0
+guppy,Guanapo,El Cedro,KG,980,12/30/2023,12/31/2023,DLM,M,16.71,,0.071,,1
+guppy,Guanapo,El Cedro,KG,981,12/30/2023,12/31/2023,RSM,F,25.33,,0.28,,1
+guppy,Guanapo,El Cedro,KG,982,12/30/2023,12/31/2023,DLM,F,23.18,,0.204,,1
+guppy,Guanapo,El Cedro,KG,983,12/30/2023,12/31/2023,RSM,F,17.21,,0.097,,1
+guppy,Guanapo,El Cedro,KG,984,12/30/2023,12/31/2023,DLM,F,20.45,,0.202,,1
+killifish,Guanapo,El Cedro,KG,985,12/30/2023,12/31/2023,RSM,F,86.84,95.43,9.521,,1
+killifish,Guanapo,El Cedro,KG,986,12/30/2023,12/31/2023,MLH,,78.74,98.68,7.541,,1
+killifish,Guanapo,El Cedro,KG,987,12/30/2023,12/31/2023,RSM,M,41.65,48.37,1.076,,0
+killifish,Guanapo,El Cedro,KG,988,12/30/2023,12/31/2023,MLH,F,43.11,50.72,1.233,,1
+killifish,Guanapo,El Cedro,KG,989,12/30/2023,12/31/2023,RSM,F,46.91,55.35,1.493,,1
+killifish,Guanapo,El Cedro,KG,990,12/30/2023,12/31/2023,MLH,F,44.85,53.75,1.279,,1
+killifish,Guanapo,El Cedro,KG,991,12/30/2023,12/31/2023,RSM,F,66.25,75.69,4.834,,1
+killifish,Guanapo,El Cedro,KG,992,12/30/2023,12/31/2023,MLH,M,38.65,45.55,0.808,,0
+killifish,Guanapo,El Cedro,KG,993,12/30/2023,12/31/2023,RSM,F,45.01,51.97,1.24,,1
+killifish,Guanapo,El Cedro,KG,994,12/30/2023,12/31/2023,MLH,M,38.13,45.33,0.857,,1
+killifish,Guanapo,El Cedro,KG,995,12/30/2023,12/31/2023,RSM,M,33.9,39.93,0.622,,1
+killifish,Guanapo,El Cedro,KG,996,12/30/2023,12/31/2023,MLH,I,28.58,34.85,0.379,,1
+killifish,Guanapo,El Cedro,KG,997,12/30/2023,12/31/2023,RSM,F,34.74,40.58,0.681,,1
+killifish,Guanapo,El Cedro,KG,998,12/30/2023,12/31/2023,MLH,I,24.94,31.64,0.272,,1
+killifish,Guanapo,El Cedro,KG,999,12/30/2023,12/31/2023,RSM,I,25.33,29.41,0.22,,1
+killifish,Guanapo,El Cedro,KG,1000,12/30/2023,12/31/2023,MLH,I,24.19,28.89,0.215,,1
+killifish,Guanapo,El Cedro,KG,1001,12/30/2023,12/31/2023,RSM,I,19.41,23.51,0.112,,1
+killifish,Guanapo,El Cedro,KG,1002,12/30/2023,12/31/2023,RSM,I,28.44,32.17,0.387,,1
+killifish,Guanapo,El Cedro,KG,1003,12/30/2023,12/31/2023,MLH,M,29.27,34.66,0.346,,1
+killifish,Guanapo,El Cedro,KG,1004,12/30/2023,12/31/2023,RSM,I,23.47,26.55,0.181,,1
+killifish,Guanapo,El Cedro,KG,1005,12/30/2023,12/31/2023,MLH,I,23.08,28.51,0.185,,1
+killifish,Guanapo,El Cedro,KG,1006,12/30/2023,12/31/2023,RSM,I,29.21,33.03,0.315,,0
+killifish,Guanapo,El Cedro,KG,1007,12/30/2023,12/31/2023,MLH,I,28.1,33.69,0.355,,0
+killifish,Guanapo,El Cedro,KG,1008,12/30/2023,12/31/2023,RSM,I,27.91,32.46,0.304,,1
+killifish,Guanapo,El Cedro,KG,1009,12/30/2023,12/31/2023,MLH,I,26.25,31.39,0.273,,1
+killifish,Guanapo,El Cedro,KG,1010,12/30/2023,12/31/2023,RSM,I,21.34,26.12,0.186,,1
+killifish,Guanapo,El Cedro,KG,1011,12/30/2023,12/31/2023,RSM,M,64.25,74.47,3.595,,1
+killifish,Guanapo,El Cedro,KG,1012,12/30/2023,12/31/2023,MLH,M,64.34,74.69,3.855,,1
+killifish,Guanapo,El Cedro,KG,1013,12/30/2023,12/31/2023,RSM,F,50.87,59.35,2.021,,1
+killifish,Guanapo,El Cedro,KG,1014,12/30/2023,12/31/2023,MLH,F,53.82,62.9,2.157,,1
+killifish,Guanapo,El Cedro,KG,1015,12/30/2023,12/31/2023,RSM,F,51.35,59.77,2.369,,1
+killifish,Guanapo,El Cedro,KG,1016,12/30/2023,12/31/2023,MLH,M,30.36,36.41,0.388,,1
+killifish,Guanapo,El Cedro,KG,1017,12/30/2023,12/31/2023,RSM,F,41.48,49.07,1.177,,1
+killifish,Guanapo,El Cedro,KG,1018,12/30/2023,12/31/2023,MLH,F,41.34,49.1,1.067,,1
+killifish,Guanapo,El Cedro,KG,1019,12/30/2023,12/31/2023,RSM,F,45.89,52.57,1.241,,1
+killifish,Guanapo,El Cedro,KG,1020,12/30/2023,12/31/2023,RSM,F,44.37,51.76,1.26,,0
+killifish,Guanapo,El Cedro,KG,1021,12/30/2023,12/31/2023,MLH,M,44.26,52.68,1.276,,1
+killifish,Guanapo,El Cedro,KG,1022,12/30/2023,12/31/2023,RSM,F,48.84,56.91,1.665,,1
+killifish,Guanapo,El Cedro,KG,1023,12/30/2023,12/31/2023,MLH,M,40.16,48.7,0.781,,1
+killifish,Guanapo,El Cedro,KG,1024,12/30/2023,12/31/2023,RSM,M,42.66,51.4,1.237,,1

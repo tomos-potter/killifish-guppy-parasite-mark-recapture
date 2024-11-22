@@ -1,0 +1,65 @@
+"","Phi","p","pent","N","model","npar","AICc","DeltaAICc","weight","Deviance"
+"39","~habitat * period","~habitat + period","~habitat * period","~habitat","Phi(~habitat * period)p(~habitat + period)pent(~habitat * period)N(~habitat)",18,10387.1120177655,0,0.53518462430312,-12492.599
+"43","~habitat * period","~habitat * period","~habitat * period","~habitat","Phi(~habitat * period)p(~habitat * period)pent(~habitat * period)N(~habitat)",20,10387.3958767773,0.283859011755339,0.464370290412075,-12496.346
+"42","~habitat + period","~habitat * period","~habitat * period","~habitat","Phi(~habitat + period)p(~habitat * period)pent(~habitat * period)N(~habitat)",18,10402.5870177655,15.4749999999985,0.000233426454740329,-12477.123
+"38","~habitat + period","~habitat + period","~habitat * period","~habitat","Phi(~habitat + period)p(~habitat + period)pent(~habitat * period)N(~habitat)",16,10402.8303401736,15.7183224081436,0.000206687058451706,-12472.853
+"40","~period","~habitat + period","~habitat * period","~habitat","Phi(~period)p(~habitat + period)pent(~habitat * period)N(~habitat)",15,10411.8186932334,24.7066754678835,2.30949601305034e-06,-12461.852
+"44","~period","~habitat * period","~habitat * period","~habitat","Phi(~period)p(~habitat * period)pent(~habitat * period)N(~habitat)",17,10412.3617815275,25.2497637620345,1.76030163429122e-06,-12465.334
+"41","~habitat","~habitat * period","~habitat * period","~habitat","Phi(~habitat)p(~habitat * period)pent(~habitat * period)N(~habitat)",16,10414.8633401736,27.7513224081431,5.03941975472812e-07,-12460.82
+"37","~habitat","~habitat + period","~habitat * period","~habitat","Phi(~habitat)p(~habitat + period)pent(~habitat * period)N(~habitat)",14,10415.4258402367,28.3138224711911,3.8039534819987e-07,-12456.233
+"35","~habitat * period","~habitat","~habitat * period","~habitat","Phi(~habitat * period)p(~habitat)pent(~habitat * period)N(~habitat)",16,10421.6593401736,34.5473224081434,1.68518616337941e-08,-12454.023
+"27","~habitat * period","~habitat * period","~habitat + period","~habitat","Phi(~habitat * period)p(~habitat * period)pent(~habitat + period)N(~habitat)",18,10428.5420177655,41.4299999999985,5.39626706616569e-10,-12451.168
+"59","~habitat * period","~habitat * period","~period","~habitat","Phi(~habitat * period)p(~habitat * period)pent(~period)N(~habitat)",17,10430.1487815275,43.0367637620348,2.41651289727844e-10,-12447.548
+"26","~habitat + period","~habitat * period","~habitat + period","~habitat","Phi(~habitat + period)p(~habitat * period)pent(~habitat + period)N(~habitat)",16,10439.5743401736,52.4623224081442,2.16997666143414e-12,-12436.109
+"58","~habitat + period","~habitat * period","~period","~habitat","Phi(~habitat + period)p(~habitat * period)pent(~period)N(~habitat)",15,10441.9696932334,54.8576754678834,6.55104759823084e-13,-12431.701
+"34","~habitat + period","~habitat","~habitat * period","~habitat","Phi(~habitat + period)p(~habitat)pent(~habitat * period)N(~habitat)",14,10442.1748402367,55.0628224711909,5.91239783316493e-13,-12429.484
+"36","~period","~habitat","~habitat * period","~habitat","Phi(~period)p(~habitat)pent(~habitat * period)N(~habitat)",13,10447.1057807139,59.9937629483666,5.02369806218245e-14,-12422.542
+"25","~habitat","~habitat * period","~habitat + period","~habitat","Phi(~habitat)p(~habitat * period)pent(~habitat + period)N(~habitat)",14,10448.4988402367,61.3868224711896,2.5033668525716e-14,-12423.16
+"57","~habitat","~habitat * period","~period","~habitat","Phi(~habitat)p(~habitat * period)pent(~period)N(~habitat)",13,10450.9167807139,63.8047629483663,7.47266294778587e-15,-12418.73
+"28","~period","~habitat * period","~habitat + period","~habitat","Phi(~period)p(~habitat * period)pent(~habitat + period)N(~habitat)",15,10453.2686932334,66.1566754678843,2.30549444108322e-15,-12420.402
+"55","~habitat * period","~habitat + period","~period","~habitat","Phi(~habitat * period)p(~habitat + period)pent(~period)N(~habitat)",15,10454.2706932334,67.1586754678829,1.39695541019422e-15,-12419.4
+"23","~habitat * period","~habitat + period","~habitat + period","~habitat","Phi(~habitat * period)p(~habitat + period)pent(~habitat + period)N(~habitat)",16,10456.1053401736,68.9933224081433,0,-12419.578
+"60","~period","~habitat * period","~period","~habitat","Phi(~period)p(~habitat * period)pent(~period)N(~habitat)",14,10456.8168402367,69.7048224711907,0,-12414.842
+"47","~habitat * period","~period","~habitat * period","~habitat","Phi(~habitat * period)p(~period)pent(~habitat * period)N(~habitat)",17,10468.6677815275,81.555763762035,0,-12409.029
+"33","~habitat","~habitat","~habitat * period","~habitat","Phi(~habitat)p(~habitat)pent(~habitat * period)N(~habitat)",12,10481.4065141956,94.2944964300877,0,-12386.231
+"48","~period","~period","~habitat * period","~habitat","Phi(~period)p(~period)pent(~habitat * period)N(~habitat)",14,10487.2978402367,100.18582247119,0,-12384.361
+"46","~habitat + period","~period","~habitat * period","~habitat","Phi(~habitat + period)p(~period)pent(~habitat * period)N(~habitat)",15,10489.0076932334,101.895675467884,0,-12384.663
+"54","~habitat + period","~habitat + period","~period","~habitat","Phi(~habitat + period)p(~habitat + period)pent(~period)N(~habitat)",13,10500.0617807139,112.949762948367,0,-12369.585
+"22","~habitat + period","~habitat + period","~habitat + period","~habitat","Phi(~habitat + period)p(~habitat + period)pent(~habitat + period)N(~habitat)",14,10502.0718402367,114.95982247119,0,-12369.587
+"45","~habitat","~period","~habitat * period","~habitat","Phi(~habitat)p(~period)pent(~habitat * period)N(~habitat)",13,10511.1247807139,124.012762948367,0,-12358.523
+"53","~habitat","~habitat + period","~period","~habitat","Phi(~habitat)p(~habitat + period)pent(~period)N(~habitat)",11,10512.2000402129,125.088022447395,0,-12353.427
+"56","~period","~habitat + period","~period","~habitat","Phi(~period)p(~habitat + period)pent(~period)N(~habitat)",12,10512.6795141956,125.567496430089,0,-12354.958
+"21","~habitat","~habitat + period","~habitat + period","~habitat","Phi(~habitat)p(~habitat + period)pent(~habitat + period)N(~habitat)",12,10514.2095141956,127.097496430088,0,-12353.428
+"24","~period","~habitat + period","~habitat + period","~habitat","Phi(~period)p(~habitat + period)pent(~habitat + period)N(~habitat)",13,10514.6027807139,127.490762948368,0,-12355.045
+"51","~habitat * period","~habitat","~period","~habitat","Phi(~habitat * period)p(~habitat)pent(~period)N(~habitat)",13,10520.3077807139,133.195762948368,0,-12349.339
+"19","~habitat * period","~habitat","~habitat + period","~habitat","Phi(~habitat * period)p(~habitat)pent(~habitat + period)N(~habitat)",14,10522.3068402367,135.19482247119,0,-12349.351
+"11","~habitat * period","~habitat * period","~habitat","~habitat","Phi(~habitat * period)p(~habitat * period)pent(~habitat)N(~habitat)",16,10541.3653401736,154.253322408144,0,-12334.317
+"10","~habitat + period","~habitat * period","~habitat","~habitat","Phi(~habitat + period)p(~habitat * period)pent(~habitat)N(~habitat)",14,10552.5618402367,165.44982247119,0,-12319.096
+"9","~habitat","~habitat * period","~habitat","~habitat","Phi(~habitat)p(~habitat * period)pent(~habitat)N(~habitat)",12,10561.3515141956,174.239496430089,0,-12306.286
+"12","~period","~habitat * period","~habitat","~habitat","Phi(~period)p(~habitat * period)pent(~habitat)N(~habitat)",13,10567.5597807139,180.447762948366,0,-12302.087
+"50","~habitat + period","~habitat","~period","~habitat","Phi(~habitat + period)p(~habitat)pent(~period)N(~habitat)",11,10568.7510402129,181.639022447396,0,-12296.876
+"18","~habitat + period","~habitat","~habitat + period","~habitat","Phi(~habitat + period)p(~habitat)pent(~habitat + period)N(~habitat)",12,10570.6525141956,183.540496430089,0,-12296.985
+"52","~period","~habitat","~period","~habitat","Phi(~period)p(~habitat)pent(~period)N(~habitat)",10,10576.8003582972,189.688340531706,0,-12286.818
+"20","~period","~habitat","~habitat + period","~habitat","Phi(~period)p(~habitat)pent(~habitat + period)N(~habitat)",11,10578.8090402129,191.697022447395,0,-12286.818
+"63","~habitat * period","~period","~period","~habitat","Phi(~habitat * period)p(~period)pent(~period)N(~habitat)",14,10581.9398402367,194.82782247119,0,-12289.719
+"31","~habitat * period","~period","~habitat + period","~habitat","Phi(~habitat * period)p(~period)pent(~habitat + period)N(~habitat)",15,10582.9206932334,195.808675467882,0,-12290.75
+"7","~habitat * period","~habitat + period","~habitat","~habitat","Phi(~habitat * period)p(~habitat + period)pent(~habitat)N(~habitat)",14,10585.7298402367,198.617822471191,0,-12285.928
+"49","~habitat","~habitat","~period","~habitat","Phi(~habitat)p(~habitat)pent(~period)N(~habitat)",9,10613.0884679803,225.976450214799,0,-12248.522
+"17","~habitat","~habitat","~habitat + period","~habitat","Phi(~habitat)p(~habitat)pent(~habitat + period)N(~habitat)",10,10614.9383582972,227.826340531707,0,-12248.681
+"64","~period","~period","~period","~habitat","Phi(~period)p(~period)pent(~period)N(~habitat)",11,10632.4230402129,245.311022447395,0,-12233.205
+"32","~period","~period","~habitat + period","~habitat","Phi(~period)p(~period)pent(~habitat + period)N(~habitat)",12,10633.8615141956,246.749496430088,0,-12233.775
+"62","~habitat + period","~period","~period","~habitat","Phi(~habitat + period)p(~period)pent(~period)N(~habitat)",12,10633.8845141956,246.772496430089,0,-12233.753
+"30","~habitat + period","~period","~habitat + period","~habitat","Phi(~habitat + period)p(~period)pent(~habitat + period)N(~habitat)",13,10635.3897807139,248.277762948366,0,-12234.258
+"6","~habitat + period","~habitat + period","~habitat","~habitat","Phi(~habitat + period)p(~habitat + period)pent(~habitat)N(~habitat)",12,10643.5045141956,256.392496430088,0,-12224.132
+"5","~habitat","~habitat + period","~habitat","~habitat","Phi(~habitat)p(~habitat + period)pent(~habitat)N(~habitat)",10,10655.5233582972,268.411340531706,0,-12208.096
+"61","~habitat","~period","~period","~habitat","Phi(~habitat)p(~period)pent(~period)N(~habitat)",10,10655.5243582972,268.412340531706,0,-12208.095
+"29","~habitat","~period","~habitat + period","~habitat","Phi(~habitat)p(~period)pent(~habitat + period)N(~habitat)",11,10657.0660402129,269.954022447395,0,-12208.562
+"8","~period","~habitat + period","~habitat","~habitat","Phi(~period)p(~habitat + period)pent(~habitat)N(~habitat)",11,10657.8080402129,270.696022447395,0,-12207.82
+"15","~habitat * period","~period","~habitat","~habitat","Phi(~habitat * period)p(~period)pent(~habitat)N(~habitat)",13,10756.7017807139,369.589762948366,0,-12112.945
+"3","~habitat * period","~habitat","~habitat","~habitat","Phi(~habitat * period)p(~habitat)pent(~habitat)N(~habitat)",12,10792.4145141956,405.302496430088,0,-12075.223
+"16","~period","~period","~habitat","~habitat","Phi(~period)p(~period)pent(~habitat)N(~habitat)",10,10827.4743582972,440.362340531707,0,-12036.145
+"14","~habitat + period","~period","~habitat","~habitat","Phi(~habitat + period)p(~period)pent(~habitat)N(~habitat)",11,10829.4640402129,442.352022447396,0,-12036.163
+"13","~habitat","~period","~habitat","~habitat","Phi(~habitat)p(~period)pent(~habitat)N(~habitat)",9,10852.6314679803,465.519450214799,0,-12008.98
+"2","~habitat + period","~habitat","~habitat","~habitat","Phi(~habitat + period)p(~habitat)pent(~habitat)N(~habitat)",10,10867.8063582972,480.694340531707,0,-11995.812
+"4","~period","~habitat","~habitat","~habitat","Phi(~period)p(~habitat)pent(~habitat)N(~habitat)",9,10875.6674679803,488.555450214799,0,-11985.944
+"1","~habitat","~habitat","~habitat","~habitat","Phi(~habitat)p(~habitat)pent(~habitat)N(~habitat)",8,10956.2303687943,569.11835102883,0,-11903.373
